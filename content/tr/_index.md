@@ -11,19 +11,19 @@ title = 'Ana Sayfa'
 ```
 
 <!-- Congo'nun kendi buton shortcode'ları -->
-{{< button href="/yazilar" target="_self" >}}
+{{< button href="/posts" target="_self" >}}
 Yazıları Oku
 {{< /button >}}
 
-{{< button href="/kategoriler" target="_self" >}}
+{{< button href="/categories" target="_self" >}}
 Kategoriler
 {{< /button >}}
 
-{{< button href="/etiketler" target="_self" >}}
+{{< button href="/tags" target="_self" >}}
 Etiketler
 {{< /button >}}
 
-{{< button href="/hakkimda" target="_self" >}}
+{{< button href="/about" target="_self" >}}
 About
 {{< /button >}}
 

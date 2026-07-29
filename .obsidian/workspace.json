@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d3fa2e3195579fe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a6fb23e594bda66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed8aa3fcc1464c0d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7cafdbf8ba8b95b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5740ed45b9de499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ae60317a826f6db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2334112b17b6334f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "97414dcdb1174c03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "3e9702255e3ad0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a34467c47b4664a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7031309a4a26173a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/The-Man-in-The-High-Castle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The-Man-in-The-High-Castle"
+            }
+          },
+          {
+            "id": "e06fd9acc8dee60c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/The-Man-in-The-High-Castle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The-Man-in-The-High-Castle"
+            }
+          },
+          {
+            "id": "79974012b1e9d262",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff0666899b05386c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5c1e3457b644cae8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/The-Man-in-The-High-Castle.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The-Man-in-The-High-Castle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ed8aa3fcc1464c0d",
+  "lastOpenFiles": [
+    "content/en/posts/Sistemim/index.md",
+    "content/en/posts/Sistemim/Screenshot_20260723_162732.png",
+    "content/en/posts/Sistemim/feature.png",
+    "content/en/posts/The-Man-in-The-High-Castle/index.md",
+    "resources/_gen/images/posts/sistemim/feature_hu_d7fa585cc9322d2c.png",
+    "resources/_gen/images/posts/sistemim/feature_hu_cca829bd3e39be46.png",
+    "resources/_gen/images/posts/sistemim/feature_hu_8c2eb784e1d14963.webp",
+    "resources/_gen/images/posts/sistemim",
+    "public/posts/sistemim/index.html",
+    "public/posts/sistemim/feature_hu_d7fa585cc9322d2c.png",
+    "public/posts/sistemim/feature_hu_cca829bd3e39be46.png",
+    "public/posts/sistemim/feature_hu_8c2eb784e1d14963.webp",
+    "public/posts/sistemim/feature.png",
+    "public/posts/sistemim/Screenshot_20260723_163555.png",
+    "public/posts/sistemim",
+    "content/en/posts/Sistemim",
+    "content/en/posts/Tümörler/index.md",
+    "content/en/posts/Linux/index.md",
+    "content/tr/_index.md",
+    "content/en/about/_index.md",
+    "content/en/_index.md",
+    "content/tr/posts/Sistemim/index.md",
+    "content/tr/posts/Linux/index.md",
+    "content/tr/about/_index.md",
+    "public/tr/posts/sistemim/index.html",
+    "resources/_gen/images/tr/posts/sistemim",
+    "content/tr/posts/Sistemim/Sistemim 💻.md",
+    "public/tr/categories/yazıl/index.xml",
+    "public/tr/categories/yazıl/page/1/index.html",
+    "public/tr/categories/yazıl/page/1",
+    "public/tr/categories/yazıl/page",
+    "content/posts/Linux/index.md",
+    "content/posts/Tümörler/index.md",
+    "content/posts/The-Man-in-The-High-Castle/index.md",
+    "content/about/_index.md",
+    "content/authors/Jules/_index.md",
+    "content/_index.md",
+    "content/posts/Linux'un-Hikayesi/index.md",
+    "content/posts/Tümörler/Tümörler.md",
+    "content/posts/The-Man-in-The-High-Castle/The-Man-in-The-High-Castle.md",
+    "content/posts/Linux.md",
+    "content/posts/Linux/Linux.md",
+    "content/posts/The-Man-in-The-High-Castle.md",
+    "İşletim-Sistemi.md",
+    "content/posts/Tümörler.md"
+  ]
+}

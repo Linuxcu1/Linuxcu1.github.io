@@ -12,22 +12,22 @@
 
 [[main]]
   name = "Yazılar"
-  pageRef = "posts"
+  pageRef = "yazilar"
   weight = 10
 
 [[main]]
   name = "Kategoriler"
-  pageRef = "categories"
+  pageRef = "kategoriler"
   weight = 20
 
 [[main]]
   name = "Etiketler"
-  pageRef = "tags"
+  pageRef = "etiketler"
   weight = 30
 
 [[main]]
   name = "Hakkımda"
-  pageRef = "about"
+  pageRef = "hakkımda"
   weight = 40
 
 [[main]]

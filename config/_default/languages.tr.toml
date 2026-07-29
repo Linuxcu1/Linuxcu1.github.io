@@ -14,7 +14,7 @@ title = "Jules"
 
 [params.author]
   name = "Jules"
-  image = "avatar.jpg"
+  image = "avatar.png"
   headline = "Benim normal olmam , zaten bir anormal."
   bio = "Hiçbir sınıfsal düzleme bağlı değilim."
   links = [

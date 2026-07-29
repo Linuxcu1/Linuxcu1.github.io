@@ -6,7 +6,7 @@ title = 'Ana Sayfa'
 
 
 ```
-İyi vatikler geçirmenizi dilerim! 👋 
+İyi vakitler geçirmenizi dilerim! 👋 
 
 ```
 

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/</loc>
+            <lastmod>2026-07-23T20:56:00+03:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/posts/</loc>
+            <lastmod>2026-07-23T20:56:00+03:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/posts/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/posts/sistemim/</loc>
+            <lastmod>2026-07-23T20:56:00+03:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/posts/sistemim/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/posts/sistemim/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/posts/linux/</loc>
+            <lastmod>2026-07-22T02:41:42+03:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/posts/linux/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/posts/linux/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/posts/t%C3%BCm%C3%B6rler/</loc>
+            <lastmod>2026-07-19T09:54:00+03:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/posts/t%C3%BCm%C3%B6rler/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/posts/t%C3%BCm%C3%B6rler/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/posts/the-man-in-the-high-castle/</loc>
+            <lastmod>2026-07-17T02:50:48+03:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/posts/the-man-in-the-high-castle/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/posts/the-man-in-the-high-castle/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/authors/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/authors/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/authors/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/about/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/tr/authors/jules/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/authors/jules/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tr"
+              href="http://localhost:1313/tr/authors/jules/"
+              />
+          </url>
+    
+  
+</urlset>

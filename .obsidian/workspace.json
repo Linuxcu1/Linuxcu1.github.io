@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tr/_index.md",
+                "file": "content/en/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,8 +185,8 @@
   },
   "active": "ed8aa3fcc1464c0d",
   "lastOpenFiles": [
-    "content/en/_index.md",
     "content/tr/_index.md",
+    "content/en/_index.md",
     "content/en/posts/Sistemim/index.md",
     "content/en/posts/Sistemim/Screenshot_20260723_162732.png",
     "content/en/posts/Sistemim/feature.png",

@@ -11,20 +11,13 @@ Have a nice day! 👋
 ```
 
 <!-- Congo'nun kendi buton shortcode'ları -->
-{{< button href="/posts" target="_self" >}}
-Posts
-{{< /button >}}
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
 
-{{< button href="/categories" target="_self" >}}
-Categories
-{{< /button >}}
+[Posts](/posts)
+[Categories](/categories)
+[Tagslar](/tags)
+[About](/about)
 
-{{< button href="/tags" target="_self" >}}
-Tags
-{{< /button >}}
-
-{{< button href="/about" target="_self" >}}
-About
-{{< /button >}}
+</div>
 
 

@@ -11,6 +11,12 @@ title = 'Ana Sayfa'
 ```
 
 <!-- Congo'nun kendi buton shortcode'ları -->
-[Yazıları Oku](/posts) &nbsp;&nbsp; [Kategoriler](/categories) &nbsp;&nbsp; [Etiketler](/tags) &nbsp;&nbsp; [About](/about)
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
 
+[Yazıları Oku](/posts)
+[Kategoriler](/categories)
+[Tagslar](/tags)
+[About](/about)
+
+</div>
 

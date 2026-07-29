@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "[https://Linuxcu1.github.io/](https://Linuxcu1.github.io/)"
+baseURL = "https://Linuxcu1.github.io/"
 
 defaultContentLanguage = "en"
 
@@ -46,4 +46,4 @@ theme = 'congo'
     disableInlineCSS = true
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':cacheDir/images'  
